@@ -16,7 +16,7 @@ Instalación
 Clona el repositorio en tu máquina local:
 bash
 Copy code
-git clone https://github.com/tu_usuario/prueba-e2e-saucedemo.git
+git clone git@github.com:ktroch/project_e2e.git
 Navega al directorio raíz del proyecto:
 bash
 Copy code
