@@ -10,7 +10,7 @@ Finalizar la compra hasta la confirmación: “THANK YOU FOR YOUR ORDER”
 Requisitos previos
 Antes de ejecutar las pruebas, asegúrate de tener instalado lo siguiente:
 
-Python 3.x
+Python 3.0
 pip
 Instalación
 Clona el repositorio en tu máquina local:
