@@ -1,5 +1,6 @@
 Prueba funcional automatizada (Prueba E2E) en la página https://www.saucedemo.com/
-Este proyecto contiene una prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página https://www.saucedemo.com/. La prueba incluye las siguientes acciones:
+Este proyecto contiene una prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página https://www.saucedemo.com/. 
+La prueba incluye las siguientes acciones:
 
 Autenticarse con el usuario: standard_user y password: secret_sauce
 Agregar dos productos al carrito
